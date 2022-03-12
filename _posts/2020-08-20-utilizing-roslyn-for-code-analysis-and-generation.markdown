@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Utilizing Roslyn for Code Analysis and Generation"
-date:   2020-07-24 10:05:34 +0100
+date:   2020-08-20 12:05:34 +0100
 categories: C# .NET 
 ---
 This is a repost of a blog post I wrote for my [company's blog](https://klika.us/blog/utilizing-roslyn-for-code-analysis-and-generation) in 2020. They have some interesting topics, give them a read.
