@@ -13,6 +13,8 @@ This will be a series of posts that will cover all the parts of the service and 
 
 First post will be about my setup, motivation, and creating the foundation for code.
 
+You can find the source code on [GitHub](https://github.com/StefanBalaban/BackMeUpOneDrive).
+
 # Setup
 I usually use Visual Studio Code on my laptop with my workstation PC as a remote host. However, I decided to use Visual Studio 2022 IDE for this undertaking as I would need more firepower in terms of IDE support with memory profiling and IntelliSense suggestions. Plus, I wanted to see in action the AI support and how helpful it is. 
 As for .NET, version 6.0.2 recently came out so that is the one I used.
