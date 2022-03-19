@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Developing a OneDrive backup service with .NET 6: Part 1"
+title:  "Developing a OneDrive Backup Service With .NET 6: Part 1 Intro"
 date:   2022-03-12 9:25:14 +0100
 categories: C# .NET 
 ---
@@ -71,4 +71,4 @@ IHost host = Host.CreateDefaultBuilder(args)
 And with this set the development of underlying logic and communication could begin
 
 # Next Steps
-In the following posts I'll go through the custom memory paging.
+In the [following post](http://stefanbalaban.com/c%23/.net/2022/03/19/developing-a-ondedrive-backup-service-part2.html) I'll go through the custom memory paging.
