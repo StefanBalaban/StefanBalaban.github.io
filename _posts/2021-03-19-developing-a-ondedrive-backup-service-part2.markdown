@@ -45,4 +45,4 @@ When the size of the currently downloaded files is about to reach the page size 
 To track the current position of the file being downloaded I keep an index field. When this index is equal to the size of the list that track the Ids of files to download the AllFilesDownloaded is set to true, and the backup process is finished for the OneDrive.
 
 # Next Steps
-Interaction with the OneDrive is done through the Graph API SDK, using the GraphServiceClient class. In the next post I'll go over my usage of this class and the customized HttpClient that I use for authentication.
+Interaction with the OneDrive is done through the Graph API SDK, using the GraphServiceClient class. In the [next post](http://stefanbalaban.com/c%23/.net/2022/04/07/developing-a-ondedrive-backup-service-part3.html) I'll go over my usage of this class and the customized HttpClient that I use for authentication.
